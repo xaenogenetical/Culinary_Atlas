@@ -1,0 +1,216 @@
+{"data":[
+     {
+        "name": "Bacon Cheese Bites",
+        "type" : "appetizer",
+        "price": "$8.49",
+        "calories": "Calorie Information",
+        "src": "../assets/imgs/bacon_cheese_bites.jpg",
+        "alt": "mozerella cheese bites topped in bacon"
+      },
+      
+      {
+        "name": "Pork Wraps",
+        "type" : "appetizer",
+        "price": "$6.99",
+        "calories": "Calorie Information",
+        "src": "../assets/imgs/wraps.jpg",
+        "alt": "Bacon wrapped stuff"
+      },
+
+      {
+        "name": "Caviar",
+        "type" : "appetizer",
+        "price": "$14.99",
+        "calories": "Calorie Information",
+        "src": "../assets/imgs/caviar.jpg",
+        "alt": "Caviar with a tomato in it"
+      },
+
+      {
+        "name": "Lasagna Fritta",
+        "type" : "appetizer",
+        "price": "$11.29",
+        "calories": "Calorie Information",
+        "alt": "lasagna fritta",
+        "src": "../assets/imgs/lasanga-fritta.webp"
+      },
+
+      {
+        "name": "Fish Sticks",
+        "type" : "appetizer",
+        "price": "$3.99",
+        "calories": "Calorie Information",
+        "alt": "fish sticks",
+        "src": "../assets/imgs/fish-sticks.jpg"
+      },
+
+      {
+        "name": "Tomato Basil Bisque",
+        "type" : "appetizer",
+        "price": "$10.69",
+        "calories": "Calorie Information",
+        "alt": "tomato soup with basil",
+        "src": "../assets/imgs/soup-tomato.jpg"
+      },
+
+      {
+        "name": "Vegetable Medley",
+        "type" : "appetizer",
+        "price": "$4.99",
+        "calories": "Calorie Information",
+        "alt": "collection of cooked vegetables",
+        "src": "../assets/imgs/veggies.jpg"
+      },
+
+      {
+        "name": "Sushi Rolls",
+        "type" : "appetizer",
+        "price": "$19.99",
+        "calories": "Calorie Information",
+        "alt": "sushi",
+        "src": "../assets/imgs/sushi.jpg"
+      },
+
+      {
+        "name": "Beef Ramen",
+        "type" : "entree",
+        "price": "$10.99",
+        "calories": "Calorie Information",
+        "src": "../assets/imgs/beef-ramen.jpeg",
+        "alt": "ramen with beef in it"
+      },
+  
+      {
+        "name": "Town Burger",
+        "type": "entree",
+        "price": "$14.99",
+        "calories": "Calorie Information",
+        "src": "../assets/imgs/burger.jpeg",
+        "alt": "a regular cheeseburger"
+      },
+      {
+        "name": "Mushroom and Swiss Burger",
+        "type": "entree",
+        "price": "$14.99",
+        "calories": "Calorie Information",
+        "src": "../assets/imgs/otherburger.jpeg",
+        "alt": "cheeseburger featuring mushrooms and swiss cheese"
+      },
+      {
+        "name": "Buttermilk Pancakes",
+        "type": "entree",
+        "price": "$11.29",
+        "calories": "Calorie Information",
+        "alt": "pancakes made of buttermilk",
+        "src": "../assets/imgs/pancakes.jpeg"
+      },
+      {
+        "name": "Penne Pasta",
+        "type": "entree",
+        "price": "$12.99",
+        "calories": "Calorie Information",
+        "alt": "penne noodles and marinara sauce",
+        "src": "../assets/imgs/penne.jpeg"
+      },
+      {
+        "name": "Spaghetti and Shrimp",
+        "type": "entree",
+        "price": "$10.69",
+        "calories": "Calorie Information",
+        "alt": "classic spaghetti dish with shrimp included",
+        "src": "../assets/imgs/spaghetti.jpeg"
+      },
+
+
+    {
+        "name": "Black forest cake",
+        "type": "dessert",
+        "price": "$8.99",
+        "calories": "456 calories",
+        "src": "https://images.pexels.com/photos/2147868/pexels-photo-2147868.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Black forest cake",
+        "description": "Black forest cake is a layer cake made out of cocoa powder, cherries, Kirsch, and whipped cream, with dark chocolate as a decoration."
+      },
+
+      {
+        "name": "Tiramisu",
+        "type": "dessert",
+        "price": "$7.49",
+        "calories": "400 calories",
+        "src": "https://images.pexels.com/photos/2138849/pexels-photo-2138849.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Tiramisu",
+        "description": "Tiramisu is a layered Italian dessert featuring coffee-soaked ladyfingers, a creamy mascarpone filling, and a dusting of cocoa powder, known for its rich, coffee-flavored taste."
+      },
+
+      {
+        "name": "Mochi",
+        "type": "dessert",
+        "price": "$3.99",
+        "calories": "70 calories",
+        "src": "https://images.pexels.com/photos/8963453/pexels-photo-8963453.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Mochi",
+        "description": "Mochi is a Japanese rice cake made from pounded, steamed glutinous rice known as mochigome, resulting in a soft, chewy, and slightly sweet texture."
+      },
+
+      {
+        "name": "Baklava",
+        "type": "dessert",
+        "price": "$6.49",
+        "calories": "334 calories",
+        "src": "https://images.pexels.com/photos/6419590/pexels-photo-6419590.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Baklava",
+        "description": "Baklava is a rich, sweet pastry dessert consisting of layers of thin phyllo dough, filled with chopped nuts (like walnuts or pistachios), and sweetened with syrup or honey, popular in the Middle East, Turkey, Greece, and other regions."
+      },
+
+      {
+        "name": "Coconut Cake",
+        "type": "dessert",
+        "price": "$3.99",
+        "calories": "434 calories",
+        "src": "https://images.pexels.com/photos/4841838/pexels-photo-4841838.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Coconut Cake",
+        "description": "Coconut cake is a popular dessert in the Southern region of the United States. It is a cake frosted with a white frosting and covered in coconut flakes."
+      },
+
+      {
+        "name": "Crème Brûlée",
+        "type": "dessert",
+        "price": "$9.99",
+        "calories": "300 calories",
+        "src": "https://images.pexels.com/photos/10165701/pexels-photo-10165701.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Crème Brûlée",
+        "description": "Crème Brûlée is a dessert consisting of a rich custard base topped with a layer of hardened caramelized sugar, served slightly chilled."
+      },
+
+      {
+        "name": "Mango Sticky Rice",
+        "type": "dessert",
+        "price": "$8.99",
+        "calories": "464 calories",
+        "src": "https://images.pexels.com/photos/19856579/pexels-photo-19856579/free-photo-of-mango-and-rice-with-dipping-sauce-on-a-white-plate.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Mango Sticky Rice",
+        "description": "Mango sticky rice is a traditional Southeast Asian and South Asian dessert made with glutinous rice, fresh mango and coconut milk."
+      },
+
+      {
+        "name": "Cannoli",
+        "type": "dessert",
+        "price": "$5.49",
+        "calories": "240 calories",
+        "src": "https://images.pexels.com/photos/19976091/pexels-photo-19976091/free-photo-of-sweet-food-on-plate.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Cannoli",
+        "description": "Cannoli is a popular Sicilian pastry consisting of a crispy, fried pastry tube filled with a sweet, creamy, ricotta-based filling, often with chocolate chips or other toppings."
+      },
+
+      {
+        "name": "Chocolate Lava Cake",
+        "type": "dessert",
+        "price": "$9.99",
+        "calories": "646 calories",
+        "src": "https://images.pexels.com/photos/15805759/pexels-photo-15805759/free-photo-of-chocolate-pouring-on-a-pudding.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "Chocolate Lava Cake",
+        "description": "Chocolate lava cake is a French dessert that consists of a chocolate cake with a liquid chocolate core."
+      }
+
+]
+}

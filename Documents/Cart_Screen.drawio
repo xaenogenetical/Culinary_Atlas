@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
+  <diagram name="Page-1" id="0KPntxVcCCwtkxXOr0UV">
+    <mxGraphModel dx="2197" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D8FF7E);" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="590" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-5" value="&lt;h1&gt;CART&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-6" value="Location Info &amp;amp; Shipping" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="530" width="160" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-9" value="PAYMENT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="680" y="680" width="105" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-10" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Your Cart&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="820" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FWsoGCjrd2xSOJ_4I5Nm-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
